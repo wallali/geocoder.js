@@ -4,7 +4,7 @@
   "description": "Fast offline coarse Geocoder",
   "main": "./lib/index.js",
   "bin": {
-    "geocoder.js": "build.js"
+    "geocoder.js": "./data/build.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
