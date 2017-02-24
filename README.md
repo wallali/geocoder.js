@@ -5,7 +5,7 @@ Fast offline coarse Geocoder based on GeoNames data.
 ## Usage
 
 ```js
-var geocoder = require('geocoder');
+var geocoder = require('geocoder.js');
 
 geocoder('Big Apple', function (location) {
 	/*
